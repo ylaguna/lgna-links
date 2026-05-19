@@ -5,8 +5,8 @@
     "logo": "assets/logo.png"
   },
   "bio": "Amsterdam-based Brazilian DJ/Producer crafting hypnotic, groove-driven techno with deep rhythms and intricate flow.",
-  "theme": "purple-space",
-  "background": "particles",
+  "theme": "dark",
+  "background": "none",
   "fonts": {
     "heading": "High Tide",
     "body": "Inter"

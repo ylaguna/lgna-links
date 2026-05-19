@@ -1,0 +1,36 @@
+{
+  "header": {
+    "mode": "image",
+    "name": "ROOTED",
+    "logo": "assets/ducktape.png"
+  },
+  "bio": "DJ duo by LGNA and ilse dorine. Hypnotic techno that keeps the body moving and the mind drifting.",
+  "theme": "purple-space",
+  "background": "particles",
+  "fonts": {
+    "heading": "High Tide",
+    "body": "Inter"
+  },
+  "links": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/ducktape.fm/",
+      "icon": "instagram"
+    },
+    {
+      "name": "SoundCloud",
+      "url": "https://soundcloud.com/ducktape-fm",
+      "icon": "soundcloud"
+    }
+  ],
+  "events": [
+    {
+      "name": "Duck Tape Sessions",
+      "date": "2026-05-24",
+      "venue": "AMW",
+      "location": "Amsterdam, NL",
+      "ticketUrl": "https://amsterdamsmostwanted.nl/",
+      "flyerImage": "assets/ducktape.png"
+    }
+  ]
+}
