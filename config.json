@@ -1,0 +1,54 @@
+{
+  "header": {
+    "mode": "text",
+    "name": "LGNA",
+    "logo": "assets/logo.png"
+  },
+  "bio": "Amsterdam-based Brazilian DJ/Producer crafting hypnotic, groove-driven techno with deep rhythms and intricate flow.",
+  "theme": "purple-space",
+  "background": "particles",
+  "fonts": {
+    "heading": "High Tide",
+    "body": "Inter"
+  },
+  "links": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/yanlaguna/",
+      "icon": "instagram"
+    },
+    {
+      "name": "SoundCloud",
+      "url": "https://soundcloud.com/lgna_music",
+      "icon": "soundcloud"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://youtube.com/@lgna_music",
+      "icon": "youtube"
+    }
+  ],
+  "events": [
+    {
+      "name": "N-R-G",
+      "date": "2026-05-23",
+      "venue": "Kabula GOGO - Utrecht, NL",
+      "ticketUrl": "https://ra.co/events/2425924",
+      "flyerImage": "https://imgproxy.ra.co/_/quality:66/aHR0cHM6Ly9pbWFnZXMucmEuY28vYzQzOGQxZDAzMjg0ZWI5Y2Q2ZDAyM2FhZDRmZThjZGFkYzJmM2ViNC5wbmc="
+    },
+    {
+      "name": "Duck Tape Sessions",
+      "date": "2026-05-24",
+      "venue": "AMW - Amsterdam, NL",
+      "ticketUrl": "https://amsterdamsmostwanted.nl/",
+      "flyerImage": "assets/ducktape.png"
+    },
+    {
+      "name": "Common Ground 3rd Edition",
+      "date": "2026-05-30",
+      "venue": "Toekomstmuziek - Amsterdam, NL",
+      "ticketUrl": "https://ra.co/events/2437295",
+      "flyerImage": "https://imgproxy.ra.co/_/quality:66/aHR0cHM6Ly9pbWFnZXMucmEuY28vNWQ3ODhhN2Q5NGUyZGRiYjI3M2E1MmVjODliNDBkNDc2MDA3MzRiNS5wbmc="
+    }
+  ]
+}
