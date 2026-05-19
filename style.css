@@ -145,7 +145,7 @@ body[data-bg="particles"] #particles-canvas {
   z-index: 1;
   width: 100%;
   max-width: 500px;
-  padding: 10em 2em 4em;
+  padding: 4em 2em 4em;
 }
 
 #header {
