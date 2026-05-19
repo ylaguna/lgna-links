@@ -65,6 +65,20 @@
   --gradient-3: #0d0028;
 }
 
+[data-theme="rooted"] {
+  --bg: #292d33;
+  --text: #fefefd;
+  --text-muted: #8a9a93;
+  --accent: #fefefd;
+  --btn-bg: rgba(75, 109, 96, 0.12);
+  --btn-border: rgba(75, 109, 96, 0.35);
+  --btn-hover-bg: rgba(75, 109, 96, 0.25);
+  --card-bg: rgba(75, 109, 96, 0.08);
+  --gradient-1: #282a33;
+  --gradient-2: #292d33;
+  --gradient-3: #364242;
+}
+
 body {
   font-family: var(--font-body);
   background-color: var(--bg);
@@ -148,7 +162,7 @@ body[data-bg="particles"] #particles-canvas {
 }
 
 #header .artist-logo {
-  max-width: 200px;
+  max-width: 15rem;
   height: auto;
 }
 
@@ -245,6 +259,12 @@ body[data-bg="particles"] #particles-canvas {
 .event-details {
   font-size: 0.85rem;
   color: var(--text-muted);
+}
+
+.event-location {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  opacity: 0.75;
 }
 
 @media (max-width: 480px) {

@@ -120,6 +120,7 @@ function renderEvents(events) {
             <div class="event-info">
                 <div class="event-name">${event.name}</div>
                 <div class="event-details">${formatDate(event.date)} · ${event.venue}</div>
+                ${event.location ? `<div class="event-location">${event.location}</div>` : ''}
             </div>
         </a>
     `).join('');
@@ -127,7 +128,8 @@ function renderEvents(events) {
 }
 
 async function init() {
-    const res = await fetch('config.json');
+    const configFile = document.body.getAttribute('data-config') || 'config.json';
+    const res = await fetch(configFile);
     const config = await res.json();
 
     document.title = config.header.name;
