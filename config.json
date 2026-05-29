@@ -30,20 +30,12 @@
   ],
   "events": [
     {
-      "name": "N-R-G",
-      "date": "2026-05-23",
-      "venue": "Kabula GOGO",
-      "location": "Utrecht, NL",
-      "ticketUrl": "https://ra.co/events/2425924",
-      "flyerImage": "https://imgproxy.ra.co/_/quality:66/aHR0cHM6Ly9pbWFnZXMucmEuY28vYzQzOGQxZDAzMjg0ZWI5Y2Q2ZDAyM2FhZDRmZThjZGFkYzJmM2ViNC5wbmc="
-    },
-    {
-      "name": "Duck Tape Sessions",
-      "date": "2026-05-24",
-      "venue": "AMW",
+      "name": "Zero Chill",
+      "date": "2026-05-30",
+      "venue": "Secret Location",
       "location": "Amsterdam, NL",
-      "ticketUrl": "https://amsterdamsmostwanted.nl/",
-      "flyerImage": "assets/ducktape.png"
+      "ticketUrl": "https://www.instagram.com/zerochill_020/",
+      "flyerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQlIzYx9tUwPutUMBi0BgcfikMiK0udZOgxg&s"
     },
     {
       "name": "Common Ground 3rd Edition",
