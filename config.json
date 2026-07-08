@@ -30,20 +30,12 @@
   ],
   "events": [
     {
-      "name": "Zero Chill",
-      "date": "2026-05-30",
-      "venue": "Secret Location",
-      "location": "Amsterdam, NL",
-      "ticketUrl": "https://www.instagram.com/zerochill_020/",
-      "flyerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQlIzYx9tUwPutUMBi0BgcfikMiK0udZOgxg&s"
-    },
-    {
-      "name": "Common Ground 3rd Edition",
-      "date": "2026-05-30",
+      "name": "TM 4 Year Anniversary",
+      "date": "2026-07-17",
       "venue": "Toekomstmuziek",
       "location": "Amsterdam, NL",
-      "ticketUrl": "https://ra.co/events/2437295",
-      "flyerImage": "https://imgproxy.ra.co/_/quality:66/aHR0cHM6Ly9pbWFnZXMucmEuY28vNWQ3ODhhN2Q5NGUyZGRiYjI3M2E1MmVjODliNDBkNDc2MDA3MzRiNS5wbmc="
+      "ticketUrl": "https://pt.ra.co/events/2477479",
+      "flyerImage": "https://imgproxy.ra.co/_/quality:66/w:1442/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vMTVhMGM5YTk4MmZmYjI4YjAzZTZjZjE0ZjQ2OGE4ZDU3MmRiZmRhZC5wbmc="
     }
   ]
 }
